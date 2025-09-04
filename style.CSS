@@ -1,0 +1,47 @@
+* {
+  outline: 2px solid red;
+}
+
+body {
+    background-color: rgb(173, 157, 151);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    margin: 30px 45px; 
+}
+
+img {
+    width: 350px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+/* written elements f the recipes */
+
+#link {
+    overflow: auto;
+    width: 1000px;
+    font-size: 30px;
+    
+    left: 425px;
+} 
+
+.apple {
+    top: -225px;
+}
+
+p {
+    font-size: 22px;
+}
+
+.lemon {
+    top: -200px;
+}
+
+.roll {
+    top: -275px;
+}
